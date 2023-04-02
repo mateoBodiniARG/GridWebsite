@@ -77,19 +77,19 @@ section{
 }
 
 #menu .about-part .front{
-    background-image: url(/Public/img2/sigmund-Fa9b57hffnM-unsplash.jpg);
+    background-image: url(../Public/img2/sigmund-Fa9b57hffnM-unsplash.jpg);
 }
 
 #menu .projects-part .front{
-    background-image: url(/Public/img2/danial-igdery-FCHlYvR5gJI-unsplash.jpg);
+    background-image: url(../Public/img2/danial-igdery-FCHlYvR5gJI-unsplash.jpg);
 }
 
 #menu .contact-part .front{
-    background-image: url(/Public/img2/daniel-korpai-mxPiMiz7KCo-unsplash.jpg);
+    background-image: url(../Public/img2/daniel-korpai-mxPiMiz7KCo-unsplash.jpg);
 }
 
 #menu .resources-part .front{
-    background-image: url(/Public/img2/jason-goodman-zSpGWzwRFas-unsplash.jpg);
+    background-image: url(../Public/img2/jason-goodman-zSpGWzwRFas-unsplash.jpg);
 }
 
 #menu .part{
@@ -247,7 +247,7 @@ svg{
     font-size: 20px;
 
     /* cursor: pointer; */
-    background-image: url(/Public/img2/thisisengineering-raeng-w_zE6qlkQKA-unsplash.jpg);
+    background-image: url(../Public/img2/thisisengineering-raeng-w_zE6qlkQKA-unsplash.jpg);
 }
 
 .main-photo h2, .main-photo div{
@@ -260,27 +260,27 @@ svg{
   .photo-2 { 
     grid-area: photo-2;
 
-    background-image: url(/Public/img2/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
+    background-image: url(../Public/img2/uriel-soberanes-MxVkWPiJALs-unsplash.jpg)
 }
   
   .photo-3 { 
     grid-area: photo-3; 
-    background-image: url(/Public/img2/yancy-min-842ofHC6MaI-unsplash.jpg)
+    background-image: url(../Public/img2/yancy-min-842ofHC6MaI-unsplash.jpg)
 }
   
   .photo-4 { 
     grid-area: photo-4; 
-    background-image: url(/Public/img2/annie-spratt-QckxruozjRg-unsplash.jpg)
+    background-image: url(../Public/img2/annie-spratt-QckxruozjRg-unsplash.jpg)
 }
   
   .photo-5 { 
     grid-area: photo-5;
-    background-image: url(/Public/img2/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
+    background-image: url(../Public/img2/christina-wocintechchat-com-faEfWCdOKIg-unsplash.jpg)
 }
   
   .photo-6 { 
     grid-area: photo-6;
-    background-image: url(/Public/img2/fabian-irsara-67l-QujB14w-unsplash.jpg)
+    background-image: url(../Public/img2/fabian-irsara-67l-QujB14w-unsplash.jpg)
 }
   
    
@@ -333,31 +333,31 @@ svg{
 }
 
 #resources .post.post-1{
-    background-image: url(/Public/img2/miduDev.png);
+    background-image: url(../Public/img2/miduDev.png);
 }
 
 #resources .post.post-2{
-    background-image: url(/Public/img2/openBootcamp.png);
+    background-image: url(../Public/img2/openBootcamp.png);
     
 }
 
 #resources .post.post-3{
-    background-image: url(/Public/img2/portfolioInspiration.png);
+    background-image: url(../Public/img2/PortfolioInspiration.png);
     
 }
 
 #resources .post.post-4{
-    background-image: url(/Public/img2/UIverse.png);
+    background-image: url(../Public/img2/UIverse.png);
     
 }
 
 #resources .post.post-5{
-    background-image: url(/Public/img2/Lordicon.png);
+    background-image: url(../Public/img2/Lordicon.png);
     
 }
 
 #resources .post.post-6{
-    background-image: url(/Public/img2/Fontspace.png);
+    background-image: url(../Public/img2/Fontspace.png);
     
 }
 

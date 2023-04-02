@@ -366,7 +366,9 @@ svg{
 
 
 
+/* ------------------------------------------- */
 
+/* ------------------------------------------- */
 
 
 @media screen and (max-width: 1090px){
@@ -433,8 +435,22 @@ svg{
         "contact";
     }
     
+    #about {
+        gap: 20px;
+        
+      }
 
     #menu .part:hover .front{
         margin-top: -25vh;
     }
+
+    #resources{
+        grid-template: repeat(6,1fr) / repeat(1,1fr) ;
+    }
+
+     #resources .post__title{
+        display: grid;
+     }   
+
+     
 }

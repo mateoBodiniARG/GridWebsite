@@ -15,6 +15,25 @@ section{
     box-sizing: border-box;
 }
 
+.scrollable::-webkit-scrollbar {
+    height: 10px;
+    overflow: scroll;
+  }
+  
+  .scrollable::-webkit-scrollbar {
+    width: 9px; /* ancho del scroll */
+  }
+  
+  .scrollable::-webkit-scrollbar-track {
+    background-color: #222222; /* color de fondo */
+  }
+  
+  .scrollable::-webkit-scrollbar-thumb {
+    background-color: #8355e5; /* color del scroll */
+    border-radius: 80px; /* radio del borde */
+  }
+  
+
 #menu{
     background-color: #1c2025;
     display: grid;
